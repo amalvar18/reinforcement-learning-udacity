@@ -9,6 +9,21 @@ __pycache__/
 # C extensions
 *.so
 
+# TODO
+cross-entropy/
+ddpg-bipedal/
+ddpg-pendulum/
+discretization/
+dqn/
+hill-climbing/
+lab-taxi/
+p1_navigation/
+p2_continuous-control/
+p3_collab-compet/
+reinforce/
+temporal-difference/
+tile-coding/
+
 # Distribution / packaging
 .Python
 env/
